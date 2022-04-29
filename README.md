@@ -5,6 +5,12 @@
 
 Here are some ideas to get you started:
 
+👋 Hi, I'm Kamil Sharipov
+🎓 I'm studying at HSE university
+🌱 I’m currently learning algorithms and data structures
+📫 How to reach me:
+telegram : @AidarIb
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
