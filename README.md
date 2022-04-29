@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi, I'm Kamil Sharipov
-🎓 I'm studying at HSE university
-🌱 I’m currently learning algorithms and data structures
-📫 How to reach me:
-telegram : @AidarIb
+- 👋 Hi, I'm Kamil Sharipov
+- 🎓 I'm studying at HSE university
+- 🌱 I’m currently learning algorithms and data structures
+- 📫 How to reach me:\
+      telegram : [@shark777msk](https://t.me/shark777msk)
